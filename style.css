@@ -2,3 +2,27 @@
   margin: 0;
   padding: 0;
 }
+
+/* Universal styles */
+body {
+  margin: 20px;
+}
+
+/* Navbar styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Navbar links styles */
+.navbar__links {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
+
+/* Logo styles */
+.navbar__logo {
+  width: 200px;
+}
