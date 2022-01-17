@@ -69,3 +69,8 @@ hr {
   justify-content: center;
   margin: 1.5rem;
 }
+
+.copyright {
+  margin: 1rem;
+  text-align: center;
+}
